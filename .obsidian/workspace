@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85a106f211dff42f",
+        "id": "6629fae4008ed374",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/Note.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Note.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,6 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85a106f211dff42f",
-  "lastOpenFiles": []
+  "active": "6629fae4008ed374",
+  "lastOpenFiles": [
+    "README.md",
+    "Assets/test-image.png",
+    "Templates/Note.md"
+  ]
 }
